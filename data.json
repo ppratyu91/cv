@@ -1,0 +1,37 @@
+{ "profile":{
+              "name":"pratyu",
+              "label":"wed developer",
+              "email":"pratyu@gmail.com"
+            },
+   "career":{
+            "info":"To purse a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+   },
+   "education":[
+     {  "degree":"Btech",
+        "institute":"PVP SIT",
+         "data":["2016-20","94%"]
+     },
+     {  "degree":"Inter",
+        "institute":"Narayana",
+         "data":["2014-16","86%"]
+       },
+       {  "degree":"cbse",
+          "institute":"Atkinson",
+           "data":["2012-14","94%"]
+        }
+   ],
+   "skills":[
+      { "title": "Languages",
+        "content":["C","Python","C++"]
+      },
+      { "title": "DataBase",
+        "content":["SQL","MongoDB"]
+      },
+      { "title": "Web Technologies",
+        "content":["HTML","CSS","JS","PHP"]
+      },
+      { "title": "Frameworks",
+        "content":["DJango","CodeIgniter"]
+      }
+   ]
+}
